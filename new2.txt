@@ -3,13 +3,13 @@ this is new file
 
 
 
-<<<<<<< HEAD
-
 
 
 
 
 this is master update
-=======
+
 update from newbranch
->>>>>>> newbranch
+
+
+this is new update after pushing to github
